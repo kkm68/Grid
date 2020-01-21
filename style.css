@@ -1,0 +1,25 @@
+font-family: 'Roboto Slab', serif;
+
+.wrapper {
+    display: grid;
+    grid-template-rows: 660px 460px 652px 101px;
+    grid-template-columns: 1440px;
+}
+
+.header {
+    background-color: brown;
+}
+
+.about {
+    background-color: cadetblue;
+    font: bold;
+    font-size: 24px;
+}
+
+.products {
+    background-color: chocolate;
+}
+
+.footer {
+    background-color: darkgray;
+}
